@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maros112358
-- 👀 I’m interested mostly in web development and AI.
+- 👀 I work as an infrastructure engineer.
 - 🌱 I’m currently getting my masters from AI at Charles University.
 - 📫 How to reach me:
 -   [Linkedin: https://www.linkedin.com/in/maro%C5%A1-bratko-115b641b8](https://www.linkedin.com/in/maros-bratko/)
