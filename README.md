@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maros112358
-- 👀 I work as an infrastructure engineer.
-- 🌱 I’m currently getting my masters from AI at Charles University.
+- 👀 I work as a data infrastructure engineer.
+- 🌱 I have a Master's Degree in AI at Charles University
 - 📫 How to reach me:
 -   [Linkedin: https://www.linkedin.com/in/maro%C5%A1-bratko-115b641b8](https://www.linkedin.com/in/maros-bratko/)
